@@ -1,0 +1,14 @@
+size(500, 500);
+fill(100, 200, 100, 80);
+ellipse(250, 150, 250, 250);
+fill(242, 22, 154, 80);
+ellipse(150, 275, 250, 250);
+fill(181, 237, 242, 80);
+ellipse(350, 275, 250, 250);
+fill(252, 255, 255);
+textSize(15);
+text("Funny", 225, 75);
+text("Smart", 75, 300);
+text("Creative", 375, 300);
+textSize(20);
+text("Jessica", 220, 250);
